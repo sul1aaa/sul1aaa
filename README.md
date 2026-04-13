@@ -37,14 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sul1aaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sul1aaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
----
-
 > *"Congrats on your failure. Most people don't even try."*
 
 </div>
