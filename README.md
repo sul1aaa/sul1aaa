@@ -1,6 +1,8 @@
+<div align="center">
+
 # Hi, I'm Sultan Assan 👋
 
-> Flutter Developer | SDU University | Open for Internship & Job
+### Flutter Developer | SDU University | Open for Internship & Job
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-assan-340820330/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lebubu)
@@ -10,10 +12,11 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm a Flutter developer studying at **SDU University**.
-I focus on building clean and performant cross-platform mobile applications.
-Currently looking for an internship or junior position in mobile development.
-Always open to interesting projects and ready to learn something new 💡
+🚀 I craft beautiful, fast, and cross-platform mobile experiences with Flutter.<br>
+🎓 Currently studying at **SDU University** and leveling up every single day.<br>
+💼 Hunting for an internship or junior role where I can build real things.<br>
+🌱 Always curious, always learning, always shipping.<br>
+⚡ If it runs on a phone — I probably want to build it.
 
 ---
 
@@ -43,3 +46,5 @@ Always open to interesting projects and ready to learn something new 💡
 ---
 
 > *"Congrats on your failure. Most people don't even try."*
+
+</div>
