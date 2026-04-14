@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sultan Assan 👋
+# Hi, I'm Sultan (sul1aaa) 👋
 
 ### Flutter Developer | SDU University | Open for Internship & Job
 
@@ -10,13 +10,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🚀 I craft beautiful, fast, and cross-platform mobile experiences with Flutter.<br>
-🎓 Currently studying at **SDU University** and leveling up every single day.<br>
-💼 Hunting for an internship or junior role where I can build real things.<br>
-🌱 Always curious, always learning, always shipping.<br>
-⚡ If it runs on a phone — I probably want to build it.
+- I craft beautiful, fast, and cross-platform mobile experiences with Flutter.<br>
+- Currently studying at **SDU University** and leveling up every single day.<br>
+- Hunting for an internship or junior role where I can build real things.<br>
+- Always curious, always learning, always shipping.<br>
+- If it runs on a phone — I probably want to build it.
 
 ---
 
