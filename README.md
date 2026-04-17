@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- I craft beautiful, fast, and cross-platform mobile experiences with Flutter.<br>
+- I craft beautiful, fast and cross-platform mobile experiences with Flutter.<br>
 - Currently studying at **SDU University** and leveling up every single day.<br>
 - Hunting for an internship or junior role where I can build real things.<br>
 - Always curious, always learning, always shipping.<br>
