@@ -12,7 +12,6 @@
 ## 🧑‍💻 About Me
 - 📱 **Mobile:** Crafting high-performance cross-platform experiences with **Flutter & BLoC**.
 - 🏛️ **Architecture:** Strict follower of **Clean Architecture** and **SOLID** principles.
-- ⚙️ **Backend:** Developing scalable REST APIs with **Spring Boot** and **PostgreSQL**.
 - 🎓 Currently leveling up at **SDU University**.
 - 🚀 **Goal:** Shipping high-quality code and hunting for a Junior/Internship role.
 
@@ -23,9 +22,6 @@
 ### Languages & Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### IDEs & Environment
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
