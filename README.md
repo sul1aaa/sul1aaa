@@ -11,7 +11,6 @@
 
 ## 🧑‍💻 About Me
 - 📱 **Mobile:** Crafting high-performance cross-platform experiences with **Flutter & BLoC**.
-- ⚙️ **Backend:** Designing robust REST APIs using **Spring Boot** and **PostgreSQL**.
 - 🏛️ **Architecture:** Strict follower of **Clean Architecture** and **SOLID** principles.
 - 🎓 Currently leveling up at **SDU University**.
 - 🚀 **Goal:** Shipping high-quality code and hunting for a Junior/Internship role.
@@ -25,18 +24,13 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![BLoC](https://img.shields.io/badge/State_Management-BLoC-blue?style=for-the-badge)
 
-### Backend & Database
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 ### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
