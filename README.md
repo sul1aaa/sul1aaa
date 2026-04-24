@@ -12,8 +12,8 @@
 ## 🧑‍💻 About Me
 - 📱 **Mobile:** Crafting high-performance cross-platform experiences with **Flutter & BLoC**.
 - 🏛️ **Architecture:** Strict follower of **Clean Architecture** and **SOLID** principles.
-- 🎓 Currently leveling up at **SDU University**.
 - 🚀 **Goal:** Shipping high-quality code and hunting for a Junior/Internship role.
+- 🎓 Currently leveling up at **SDU University**.
 
 ---
 
