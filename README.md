@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Sultan (sul1aaa) 👋
-### Mobile Engineer | Flutter | SDU University
+### Mobile Engineer | Flutter x Dart | SDU University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-assan-340820330/) 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lebubu1) 
