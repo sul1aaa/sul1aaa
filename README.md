@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sultan (sul1aaa) 👋
+# Hi, I'm Sula (sul1aaa) 👋
 ### Mobile Engineer | Flutter x Dart | SDU University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-assan-340820330/) 
