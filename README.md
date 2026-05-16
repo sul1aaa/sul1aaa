@@ -1,4 +1,3 @@
-<div align="center">
 
 # Hi, I'm Sultan (sul1aaa) 👋
 ### Mobile Engineer | Flutter x Dart | SDU University
