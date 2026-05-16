@@ -8,16 +8,16 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 📱 **Mobile:** Crafting high-performance cross-platform experiences with **Flutter & BLoC**.
-- 🏛️ **Architecture:** Strict follower of **Clean Architecture** and **SOLID** principles.
-- 🚀 **Goal:** Shipping high-quality code and hunting for a Junior/Internship role.
-- 🎓 Currently leveling up at **SDU University**.
+## About Me
+- **Mobile:** Crafting high-performance cross-platform experiences with **Flutter & BLoC**.
+- **Architecture:** Strict follower of **Clean Architecture** and **SOLID** principles.
+- **Goal:** Shipping high-quality code and hunting for a Junior/Internship role.
+- Currently leveling up at **SDU University**.
 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
