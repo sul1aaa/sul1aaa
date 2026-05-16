@@ -25,14 +25,6 @@
 
 ---
 
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sul1aaa&show_icons=true&theme=radical" alt="Sultan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1aaa&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 > *"Congrats on your failure. Most people don't even try."*
 
 </div>
