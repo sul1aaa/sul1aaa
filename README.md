@@ -39,23 +39,34 @@ class Sultan extends FlutterDeveloper {
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
+<div align="center">
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🧠 State Management
 ![BLoC](https://img.shields.io/badge/BLoC-7B61FF?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-54C5F8?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🔗 Backend & APIs
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sul1aaa&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sul1aaa&layout=compact&theme=tokyonight&border_radius=12)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sul1aaa&theme=tokyonight&border_radius=12)
+
+</div>
 
 ---
 
