@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sultan%20Assan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineering%20Student&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sultan%20Assan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineering%20Student&descAlignY=58&descSize=17&descColor=a78bfa" width="100%"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-assan-340820330/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/lebubu1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sgxudij)
 
 </div>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-assan-340820330/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lebubu1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sgxudij)
-
-</div>
-
----
+<br/>
 
 ## 👋 About Me
 
@@ -35,52 +31,54 @@ class Sultan extends FlutterDeveloper {
 }
 ```
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-7B61FF?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-54C5F8?style=for-the-badge&logo=flutter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)&nbsp;
+![BLoC](https://img.shields.io/badge/BLoC-7B61FF?style=flat-square&logo=flutter&logoColor=white)&nbsp;
+![Provider](https://img.shields.io/badge/Provider-54C5F8?style=flat-square&logo=flutter&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)&nbsp;
+![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square&logo=postman&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sul1aaa&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sul1aaa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1aaa&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sul1aaa&layout=compact&theme=tokyonight&border_radius=12)
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sul1aaa&theme=tokyonight&border_radius=12)
+<img src="https://streak-stats.demolab.com?user=sul1aaa&theme=tokyonight&border_radius=10&hide_border=true" />
 
 </div>
 
----
+<br/>
 
 ## 🎯 Currently
 
 - 📖 Deepening knowledge of **Clean Architecture** patterns
-- 🔍 Actively looking for **Flutter internship / junior role**
+- 🔍 Actively looking for a **Flutter internship / junior role**
 - 🏗️ Building real-world projects to sharpen backend integration skills
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>
 
 *"Building clean, scalable, and maintainable mobile applications — one layer at a time."*
 
