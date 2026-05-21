@@ -15,19 +15,23 @@
 ## 👋 About Me
 
 ```dart
-class Sultan extends FlutterDeveloper {
-  final String university   = "SDU University — Computer Science";
-  final String focus        = "Mobile Engineering";
-  final String architecture = "Clean Architecture + BLoC";
-  final String goal         = "Flutter Internship / Junior Role";
-  final bool   openToWork   = true;
+void main() {
+  runApp(Sultan());
+}
 
-  List<String> get interests => [
-    "Cross-platform mobile development",
-    "Scalable app architecture",
-    "Real-time systems",
-    "Performant & clean UI",
-  ];
+class Sultan extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Developer(
+        name: "Sultan Assan",
+        role: "Flutter Developer",
+        university: "SDU University",
+        openToWork: true,
+        stack: ["Flutter", "Dart", "BLoC", "Clean Architecture"],
+      ),
+    );
+  }
 }
 ```
 
@@ -47,22 +51,6 @@ class Sultan extends FlutterDeveloper {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sul1aaa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1aaa&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sul1aaa&theme=tokyonight&border_radius=10&hide_border=true" />
 
 </div>
 
