@@ -44,11 +44,11 @@ class SultanAssan extends StatelessWidget {
 </td>
 <td width="45%" valign="top">
 
-- 📱 I build **cross-platform mobile apps** with Flutter, from the first screen to the store-ready build
-- 🧱 I care about **clean layers**, testable BLoCs and code a team can read
-- 🎨 I like UI that **feels smooth**: motion, states and small details
-- 🌍 I ship apps in **English, Russian and Kazakh**
-- 🤝 I work on a team, with PRs, reviews and CI
+- I build **cross-platform mobile apps** with Flutter, from the first screen to the store-ready build
+- I care about **clean layers**, testable BLoCs and code a team can read
+- I like UI that **feels smooth**: motion, states and small details
+- I ship apps in **English, Russian and Kazakh**
+- I work on a team, with PRs, reviews and CI
 
 </td>
 </tr>
