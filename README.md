@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Sultan%20Assan&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineering%20Student&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/sul1aaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Flutter+Developer+%E2%80%A2+Almaty%2C+Kazakhstan;Clean+Architecture+%C2%B7+BLoC+%C2%B7+REST+APIs;Smooth+UI%2C+real-time+features%2C+offline-first;Open+to+internships+%26+junior+roles" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Flutter+Developer+%E2%80%A2+Almaty%2C+Kazakhstan;Clean+Architecture+%C2%B7+BLoC+%C2%B7+REST+APIs;Smooth+UI%2C+real-time+features%2C+offline-first;Open+to+Junior+%2F+Strong+Junior+roles" alt="Typing intro"/>
 </a>
 
 <br/><br/>
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-assan-340820330/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lebubu1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sgxudij)
-<img src="https://img.shields.io/badge/Open%20to%20work-Internship%20%7C%20Junior-a78bfa?style=for-the-badge&labelColor=302b63" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Open%20to%20work-Junior%20%7C%20Strong%20Junior-a78bfa?style=for-the-badge&labelColor=302b63" alt="Open to work"/>
 <img src="https://komarev.com/ghpvc/?username=sul1aaa&label=Profile%20views&color=a78bfa&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -36,7 +36,7 @@ class SultanAssan extends StatelessWidget {
         basedIn: 'Almaty, Kazakhstan',
         studying: 'SDU University',
         loves: ['Clean Architecture', 'BLoC', 'Smooth UI'],
-        openTo: ['Internship', 'Junior role'],
+        openTo: ['Junior', 'Strong Junior'],
       );
 }
 ```
@@ -64,16 +64,14 @@ class SultanAssan extends StatelessWidget {
 
 ### 🏢 [Estate CRM](https://github.com/Dexr1te/estate-crm-system)
 
-A multi-agency **real-estate CRM**: a Flutter app on a Spring Boot API. An agency signs up and adds its agents, then runs its clients, listings, deals, viewings and documents. Each team's data is walled off from every other team's.
+A multi-agency **real-estate CRM** app built with Flutter. An agency signs up and adds its agents, then runs its clients, listings, deals, viewings and documents. Each team's data is walled off from every other team's.
 
-**My part:** I own the mobile app and contribute to the API.
+**My part:** I own the Flutter app.
 
 `38 feature modules` `7,200+ tests` `EN · RU · KK` `offline cache` `push reminders` `maps` `PDF brochures`
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-7B61FF?style=flat-square&logo=flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
@@ -128,7 +126,7 @@ A **weather app** built on Clean Architecture. It shows current conditions plus 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,spring,postgres,git,github,githubactions,postman,figma,androidstudio,vscode&perline=13" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,githubactions,postman,figma,androidstudio,vscode&perline=10" alt="Tech stack"/>
 
 <br/><br/>
 
@@ -161,7 +159,7 @@ A **weather app** built on Clean Architecture. It shows current conditions plus 
 
 - 🏢 Building **Estate CRM** with a team of three. I own the Flutter app
 - 📖 Getting deeper into **Clean Architecture** and testing
-- 🔍 Looking for a **Flutter internship or junior role**. Say hi on [Telegram](https://t.me/lebubu1) or [LinkedIn](https://www.linkedin.com/in/sultan-assan-340820330/)
+- 🔍 Open to **Junior / Strong Junior Flutter** roles. Say hi on [Telegram](https://t.me/lebubu1) or [LinkedIn](https://www.linkedin.com/in/sultan-assan-340820330/)
 
 <br/>
 
