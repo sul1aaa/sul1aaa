@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Sultan%20Assan&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineerig%20Student&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Sultan%20Assan&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Engineering%20Student&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/sul1aaa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=560&lines=Flutter+Developer+%E2%80%A2+Almaty%2C+Kazakhstan;Clean+Architecture+%C2%B7+BLoC+%C2%B7+REST+APIs;Smooth+UI%2C+real-time+features%2C+offline-first;Open+to+Junior+%2F+Strong+Junior+roles" alt="Typing intro"/>
