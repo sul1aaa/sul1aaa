@@ -12,7 +12,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lebubu1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sgxudij)
 <img src="https://img.shields.io/badge/Open%20to%20work-Junior%20%7C%20Strong%20Junior-a78bfa?style=for-the-badge&labelColor=302b63" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=sul1aaa&label=Profile%20views&color=a78bfa&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
