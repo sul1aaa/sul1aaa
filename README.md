@@ -145,6 +145,10 @@ A **weather app** built on Clean Architecture. It shows current conditions plus 
 
 <div align="center">
 
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sul1aaa&show_icons=true&hide_border=true&rank_icon=github&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1aaa&layout=compact&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" alt="Top languages"/>
+
 <img src="https://streak-stats.demolab.com?user=sul1aaa&hide_border=true&background=0F0C29&stroke=302B63&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub streak"/>
 
 </div>
