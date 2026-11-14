@@ -17,7 +17,7 @@
 
 <br/>
 
-## 👋 About Me
+## 👋 About 
 
 <table>
 <tr>
